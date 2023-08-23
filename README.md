@@ -11,7 +11,8 @@ repositórios para armazenar resumos sobre Git e GitHub do Curso de Versionament
 
 | Aulas | Resumos |
 |-------|---------|
-| Gravando Alterações no repositório Local | [Resumo]() |
+| Resumo Aula 01 | [Resumo]() |
+| Resumo Aula 02 | [Resumo]() |
 
 ```
 git init
