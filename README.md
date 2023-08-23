@@ -7,7 +7,7 @@ repositórios para armazenar resumos sobre Git e GitHub do Curso de Versionament
 - [Documentação do GitHub](https://docs.github.com/)
 
 
-## 💻 Resumos das Aulas 
+## 💻 Resumo das Aulas 
 
 | Aulas | Resumos |
 |-------|---------|
